@@ -7,3 +7,4 @@ def factorial(n):
 number = 5
 result = factorial(number)
 print(f"The factorial of {number} is {result}.")
+print("This is the second line that should be printed in blue color")
